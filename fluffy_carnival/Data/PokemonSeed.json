@@ -1,0 +1,47 @@
+[
+	{
+		"Id": 1,
+		"Name": "bulbasaur",
+		"Url": "https://pokeapi.co/api/v2/pokemon/1/"
+	},
+	{
+		"Id": 2,
+		"Name": "charmander",
+		"Url": "https://pokeapi.co/api/v2/pokemon/4/"
+	},
+	{
+		"Id": 3,
+		"Name": "charizard",
+		"Url": "https://pokeapi.co/api/v2/pokemon/6/"
+	},
+	{
+		"Id": 4,
+		"Name": "squirtle",
+		"Url": "https://pokeapi.co/api/v2/pokemon/7/"
+	},
+	{
+		"Id": 5,
+		"Name": "blastoise",
+		"Url": "https://pokeapi.co/api/v2/pokemon/9/"
+	},
+	{
+		"Id": 6,
+		"Name": "butterfree",
+		"Url": "https://pokeapi.co/api/v2/pokemon/12/"
+	},
+	{
+		"Id": 7,
+		"Name": "pidgey",
+		"Url": "https://pokeapi.co/api/v2/pokemon/16/"
+	},
+	{
+		"Id": 8,
+		"Name": "pidgeotto",
+		"Url": "https://pokeapi.co/api/v2/pokemon/17/"
+	},
+	{
+		"Id": 9,
+		"Name": "pikachu",
+		"Url": "https://pokeapi.co/api/v2/pokemon/25/"
+	}
+]
